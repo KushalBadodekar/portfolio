@@ -1,6 +1,18 @@
-Thanks for downloading this template!
+My Portfolio – Showcasing My Work & Skills
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Welcome to my personal portfolio website! This project highlights my skills, projects, and experiences, providing a glimpse into my work in data analytics, Power BI, cloud computing, and software development.
+
+🌟 About This Portfolio
+
+This website serves as a central hub to showcase:
+
+My professional background (resume, certifications, and experience).
+Technical projects in Gen AI, Power BI, Python, Cloud Computing, and Web Development.
+Interactive dashboards & case studies demonstrating data visualization and analysis.
+
+🛠 Technologies Used
+
+HTML, CSS, JavaScript for front-end development.
+Bootstrap & Tailwind CSS for responsive design.
+Power BI Dashboards for data visualization.
+GitHub Pages for hosting this portfolio.
