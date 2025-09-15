@@ -1276,6 +1276,10 @@ section,
   background-repeat: no-repeat;
 }
 
+.bi-rhel::before {
+  content: '' !important;
+}
+
 
 /* PMAT */
 .bi-pmat {
@@ -1285,6 +1289,10 @@ section,
   height: 1.5rem;
   background-size: contain;
   background-repeat: no-repeat;
+}
+
+.bi-pmat::before {
+  content: '' !important;
 }
 
 /* API */
@@ -1297,6 +1305,9 @@ section,
   background-repeat: no-repeat;
 }
 
+.bi-api::before {
+  content: '' !important;
+}
 
 /* Deloitte */
 .bi-deloitte {
@@ -1316,6 +1327,10 @@ section,
   height: 1.5rem;
   background-size: contain;
   background-repeat: no-repeat;
+}
+
+.bi-comptia::before {
+  content: '' !important;
 }
 
 /* Python */
