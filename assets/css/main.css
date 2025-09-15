@@ -1266,6 +1266,38 @@ section,
   background-repeat: no-repeat;
 }
 
+/* RHEL9 */
+.bi-rhel {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Red_Hat_logo.svg/640px-Red_Hat_logo.svg.png');
+  display: inline-block;
+  width: 1.5rem;
+  height: 1.5rem;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+
+/* PMAT */
+.bi-pmat {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hacker_behind_PC.svg/640px-Hacker_behind_PC.svg.png');
+  display: inline-block;
+  width: 1.5rem;
+  height: 1.5rem;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+/* API */
+.bi-api {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Hacker_behind_PC.svg/640px-Hacker_behind_PC.svg.png');
+  display: inline-block;
+  width: 1.5rem;
+  height: 1.5rem;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+
 /* Deloitte */
 .bi-deloitte {
   background-image: url('https://upload.wikimedia.org/wikipedia/commons/3/3e/Deloitte.svg');
